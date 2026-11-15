@@ -4,7 +4,7 @@ cd ~
 
 # Instalar herramientas necesarias
 
-apt install lsd bat git -y
+apt install lsd bat git vim -y
 
 # borrar archivos de termux configuraxion por defecto
 
